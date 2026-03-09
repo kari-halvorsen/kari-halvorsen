@@ -8,8 +8,9 @@ scalable commercial strategies, and AI-powered sales motions.
 - **GTM Strategy** — Designing go-to-market motions for enterprise tech and cybersecurity
 - **Commercial Strategy** — Aligning sales, marketing, and product for efficient growth
 - **Business Development** — Opening new markets and forging strategic partnerships
+- **Global Marketing** — Growing market share and adapting campaigns for local and regional impact and resonance
 
-## 🌍 Industries I Know Well
+## 🌍 Industries I Am Excited About
 `Cybersecurity` `Enterprise SaaS` `Cloud` `AI/ML` `B2B Tech`
 
 ## 🛠️ Tools & Platforms I Work With
@@ -19,7 +20,7 @@ scalable commercial strategies, and AI-powered sales motions.
 - Productivity: Notion, Slack, Google Workspace
 
 ## 🤖 Currently Exploring
-Using AI tools to build smarter GTM playbooks, sales prompts, and enablement frameworks. 
+Using AI tools to build smarter GTM playbooks, sales prompts, competitive research tools, and enablement frameworks. 
 This GitHub is where I experiment and share what I'm learning.
 
 ## 📬 Let's Connect
