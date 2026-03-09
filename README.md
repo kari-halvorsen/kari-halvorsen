@@ -11,7 +11,7 @@ scalable commercial strategies, and AI-powered sales motions.
 - **Global Marketing** — Growing market share and adapting campaigns for local and regional impact and resonance
 
 ## 🌍 Industries I Am Excited About
-`Cybersecurity` `Enterprise SaaS` `Cloud` `AI/ML` `B2B Tech`
+`Cybersecurity` `Enterprise SaaS` `Cloud` `AI/ML` `B2B Tech` `B2B Professional Services`
 
 ## 🛠️ Tools & Platforms I Work With
 - CRM & Revenue Intelligence: Salesforce, HubSpot, Gong, Clari
