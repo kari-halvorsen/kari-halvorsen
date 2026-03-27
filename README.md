@@ -17,7 +17,7 @@ scalable commercial strategies, and AI-powered sales motions.
 - CRM & Revenue Intelligence: Salesforce, HubSpot, Gong, Clari
 - Enablement: Highspot, Seismic, Outreach
 - AI Tools: Claude, ChatGPT, Gemini, Perplexity
-- Productivity: Notion, Slack, Google Workspace,Trello
+- Productivity: Notion, Slack, Google Workspace, Trello
 
 ## 🤖 Currently Exploring
 Using AI tools to build smarter GTM playbooks, sales prompts, competitive research tools, and enablement frameworks. 
